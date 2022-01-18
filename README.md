@@ -19,16 +19,17 @@
 
 - ☁️ Web Frontend
 - 📱 IOS Development
+- 💻 Machine Learning
 
 <br/>
 
-### **📱 Projects i've done recently**
+### **📱 Projects I've done recently**
 
 - [📷 ms129 : Mobile App to Make Profile Picture using Selfies](https://github.com/poodlepoodle/ms129-mobileapp-expo)
 
 <br/>
 
-### **💻 Tech Skills i've used**
+### **💻 Tech Skills I've used**
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=FFFFFF"/>
 <br/>
