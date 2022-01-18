@@ -8,27 +8,27 @@
 
 <br/>
 
-### **I'm major in __**
+### **🏫 I'm major in __**
 
 - ⚡️ Electronic Engineering (Image Processing, Microprocessor, etc)
 - 💻 Computer Science (Computer Architecture, OS, etc)
 
 <br/>
 
-### **I'm interested in __**
+### **😀 I'm interested in __**
 
 - ☁️ Web Frontend
 - 📱 IOS Development
 
 <br/>
 
-### **Projects i've done recently**
+### **📱 Projects i've done recently**
 
 - [📷 ms129 : Mobile App to Make Profile Picture using Selfies](https://github.com/poodlepoodle/ms129-mobileapp-expo)
 
 <br/>
 
-### **Tech Skills i've used**
+### **💻 Tech Skills i've used**
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=FFFFFF"/>
 <br/>
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-### **Contact me on**
+### **✨ Contact me on**
 
 [<img alt="chammal97@naver.com" src ="https://img.shields.io/badge/Email-428813.svg?&style=flat&logo=gmail&logoColor=FFFFFF"/>](chammal97@naver.com)
 [<img alt="poodlepoodle" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=github&logoColor=FFFFFF"/>](https://github.com/poodlepoodle/)
