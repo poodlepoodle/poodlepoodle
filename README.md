@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=✨poodlepoodle✨&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=✨poodlepoodle✨&fontSize=30)
 
 <br/>
 
@@ -49,6 +49,7 @@
 <img alt="Markdown" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=flat&logo=markdown&logoColor=FFFFFF"/>
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=FFFFFF"/>
 
+<br/>
 <br/>
 
 ### **Contact me on**
