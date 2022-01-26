@@ -57,7 +57,7 @@
 
 [<img alt="chammal97@naver.com" src ="https://img.shields.io/badge/Email-428813.svg?&style=flat&logo=gmail&logoColor=FFFFFF"/>](chammal97@naver.com)
 [<img alt="poodlepoodle" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=github&logoColor=FFFFFF"/>](https://github.com/poodlepoodle/)
-[<img alt="devpoodle.tistory.com" src ="https://img.shields.io/badge/Blog-CC0000.svg?&style=flat&logo=jekyll&logoColor=FFFFFF"/>](https://devpoodle.tistory.com/)
+[<img alt="poodlepoodle.github.io" src ="https://img.shields.io/badge/Blog-CC0000.svg?&style=flat&logo=jekyll&logoColor=FFFFFF"/>](https://poodlepoodle.github.io/)
 [<img alt="@enfp._.oodle" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=FFFFFF"/>](https://instagram.com/enfp._.oodle/)
 
 </div>
