@@ -17,20 +17,20 @@
 
 ### **😀 I'm interested in __**
 
-- ☁️ Web Frontend
-- 📱 IOS Development
-- 💻 Machine Learning
+- ☁️ Web Frontend (`ES6`, `React`, ...)
+- 📱 IOS Development (`Swift`, ...)
+- 💻 Machine Learning (`Pytorch`, `GAN`, ...)
 
 <br/>
 
 ### **📱 Projects I've done recently**
 
-- [✨ poodle.log()](https://poodlepoodle.github.io) `Github Blog using Jekyll and Chirpy Theme`
-- [📷 ms129](https://github.com/poodlepoodle/ms129-mobileapp-expo) `Mobile App to Make Profile Picture using Selfies`
+- [✨ poodle.log()](https://poodlepoodle.github.io) - Github Blog using Jekyll and Chirpy Theme
+- [📷 ms129](https://github.com/poodlepoodle/ms129-mobileapp-expo) - Mobile App to Make Profile Picture using Selfies
   
 <br/>
 
-### **💻 Tech Skills I've used**
+### **💻 Tech skills I've used**
 
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=FFFFFF"/>
 <br/>
