@@ -19,7 +19,7 @@
 
 - ☁️ Web Frontend (`ES6`, `React`, ...)
 - 📱 IOS Development (`Swift`, ...)
-- 💻 Machine Learning (`Pytorch`, `GAN`, ...)
+- 💻 Computer Vision & Machine Learning (`Pytorch`, `GAN`, ...)
 
 <br/>
 
