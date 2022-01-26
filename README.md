@@ -10,8 +10,8 @@
 
 ### **🏫 I'm major in __**
 
-- ⚡️ Electronic Engineering (Image Processing, Microprocessor, etc)
-- 💻 Computer Science (Computer Architecture, OS, etc)
+- ⚡️ Electronic Engineering (`Image Processing`, `Microprocessor`, ...)
+- 💻 Computer Science (`Computer Architecture`, `OS`, ...)
 
 <br/>
 
@@ -25,8 +25,9 @@
 
 ### **📱 Projects I've done recently**
 
-- [📷 ms129 : Mobile App to Make Profile Picture using Selfies](https://github.com/poodlepoodle/ms129-mobileapp-expo)
-
+- [✨ poodle.log()](https://poodlepoodle.github.io) `Github Blog using Jekyll and Chirpy Theme`
+- [📷 ms129](https://github.com/poodlepoodle/ms129-mobileapp-expo) `Mobile App to Make Profile Picture using Selfies`
+  
 <br/>
 
 ### **💻 Tech Skills I've used**
