@@ -65,4 +65,4 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&text=chammal97@naver.com&fontSize=25&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&text=chammal97@naver.com&fontSize=20&section=footer)
