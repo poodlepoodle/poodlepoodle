@@ -35,7 +35,7 @@
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=FFFFFF"/>
 <br/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=FFFFFF"/>
-<img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat&logo=anaconda&logoColor=FFFFFF"/>
+<!-- <img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda-44A833.svg?&style=flat&logo=anaconda&logoColor=FFFFFF"/> -->
 <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat&logo=opencv&logoColor=FFFFFF"/>
 <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=FFFFFF"/>
 <br/>
@@ -49,7 +49,7 @@
 <br/>
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=FFFFFF"/>
 <img alt="Markdown" src ="https://img.shields.io/badge/Markdown-000000.svg?&style=flat&logo=markdown&logoColor=FFFFFF"/>
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=FFFFFF"/>
+<!-- <img alt="Visual Studio Code" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=flat&logo=visualstudiocode&logoColor=FFFFFF"/> -->
 
 <br/>
 <br/>
