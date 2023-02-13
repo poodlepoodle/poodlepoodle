@@ -14,14 +14,14 @@
 
 ### **🏫 I've studied at**
 
-- 선린인터넷고등학교 웹운영과
-<sub>2013.03 ~ 2016.02</sub>
-- 서강대학교 전자공학, 컴퓨터공학
-<sub>2016.03 ~</sub>
-- 신촌 연합 IT 창업동아리 CEOS 15기 **프론트엔드** 파트
-<sub>2022.03 ~ 2022.08</sub>
 - Apple Developer Academy @ POSTECH **Tech** Learner
 <sub>2023.03 ~</sub>
+- 신촌 연합 IT 창업동아리 CEOS 15기 **프론트엔드** 파트
+<sub>2022.03 ~ 2022.08</sub>
+- 서강대학교 전자공학, 컴퓨터공학
+<sub>2016.03 ~</sub>
+- 선린인터넷고등학교 웹운영과
+<sub>2013.03 ~ 2016.02</sub>
 
 <br />
 
@@ -29,10 +29,10 @@
 
 </div>
 
-- Memory management strategies based on computer architecture
-- Latest papers in the domain of Computer Vision (GAN, CNN, ...)
-- IOS
 - Frontend development with Javascript, React, Next.js
+- IOS
+- Latest papers in the domain of Computer Vision (GAN, CNN, ...)
+- Memory management strategies based on Computer Architecture
 
 <br />
 
