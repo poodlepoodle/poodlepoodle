@@ -2,21 +2,17 @@
 <div align="center">
 <img src = "https://user-images.githubusercontent.com/6462456/155731672-55c01143-0a73-4b2e-a1f1-d900f45dfe0e.gif" width="35%" />
 
-<h3>
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" />
+<h4>
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" />
 <strong>
 반갑습니당
 </strong>
-</h3>
+</h4>
 </div>
 
 <br/>
 
-<div align="center">
-
 ### **🏫 I've studied at**
-
-</div>
 
 - 선린인터넷고등학교 웹운영과
 <sub>2013.03 ~ 2016.02</sub>
@@ -27,18 +23,20 @@
 - Apple Developer Academy @ POSTECH **Tech** Learner
 <sub>2023.03 ~</sub>
 
-<div align="center">
+<br />
 
 ### **😀 I'm interested in**
 
 </div>
 
-- memory management strategies based on computer architecture
-- latest papers in the domain of computer vision (GAN, CNN, ...)
+- Memory management strategies based on computer architecture
+- Latest papers in the domain of Computer Vision (GAN, CNN, ...)
 - IOS
-- frontend development with Javascript, React, Next.js
+- Frontend development with Javascript, React, Next.js
 
-<div align="center">
+<br />
+
+<div align="left">
 
 ### **📱 Projects I've done recently**
 
@@ -54,9 +52,15 @@
 <sub>클라이언트 개발</sub>
 [[Github]](https://github.com/poodlepoodle/ms129-mobileapp-expo) 
 
-<div align="center">
+<br />
+
+<div align="left">
 
 ### **✨ Contact me on**
+
+</div>
+
+<div align="left">
 
 [<img alt="chammal97@naver.com" src ="https://img.shields.io/badge/Email-brightgreen.svg?&style=flat&logo=gmail&logoColor=FFFFFF"/>](chammal97@naver.com)
 [<img alt="poodlepoodle.github.io" src ="https://img.shields.io/badge/Blog-000000.svg?&style=flat&logo=jekyll&logoColor=FFFFFF"/>](https://poodlepoodle.github.io/)
