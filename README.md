@@ -44,7 +44,8 @@
 
 - 💊 **Weato**: 당신만을 위한 아토피 맞춤 정보 서비스
 <sub>프론트엔드 개발</sub>
-[[Github]](https://github.com/ceos15th-AllG/weato-client) 
+[[Github]](https://github.com/ceos15th-AllG/weato-client)
+[[Demo]](https://www.weato.net)
 - ✨ **poodle.log()**: 개인 개발 기록 블로그
 [[Github]](https://github.com/poodlepoodle/poodlepoodle.github.io)
 [[Link]](https://poodlepoodle.github.io)
