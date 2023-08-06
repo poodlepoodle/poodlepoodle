@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<br />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-F05138?style=flat&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white"/>
 </div>
 
 <br/>
@@ -39,8 +43,8 @@
 </div>
 
 - Frontend development with Javascript, React, Next.js
-- IOS
-- Latest papers in the domain of Computer Vision (GAN, CNN, ...)
+- IOS Apps
+- Computer Vision
 - Memory management strategies based on Computer Architecture
 
 <br />
@@ -51,16 +55,20 @@
 
 </div>
 
+- 🦠 **AllerView**: 식품 포장지 정보 스캔을 통한 알러지 정보 검출 서비스
+<sub>IOS 개발</sub>
+[[Github]](https://github.com/poodlepoodle/mc3-allerview-ios) 
+- 📘 **poodle blog**: 포트폴리오 및 기술 블로그
+<sub>웹 프론트엔드 개발</sub>
+[[Github]](https://github.com/poodlepoodle/poodle-blog-nextjs)
+[[Link]](https://poodlepoodle.me)
+- 🐶 **Snooze**: 반려동물의 시간을 알려주는 서비스
+<sub>IOS 개발</sub>
+[[Github]](https://github.com/poodlepoodle/mc2-snooze-ios) 
 - 💊 **Weato**: 당신만을 위한 아토피 맞춤 정보 서비스
-<sub>프론트엔드 개발</sub>
+<sub>웹 프론트엔드 개발</sub>
 [[Github]](https://github.com/ceos15th-AllG/weato-client)
-[[Demo]](https://www.weato.net)
-- ✨ **poodle.log()**: 개인 개발 기록 블로그
-[[Github]](https://github.com/poodlepoodle/poodlepoodle.github.io)
-[[Link]](https://poodlepoodle.github.io)
-- 📷 **ms129**: 셀카를 통한 증명사진 생성 애플리케이션
-<sub>클라이언트 개발</sub>
-[[Github]](https://github.com/poodlepoodle/ms129-mobileapp-expo) 
+[[Demo]](https://weato-client-vercel.vercel.app)
 
 <br />
 
@@ -73,6 +81,6 @@
 <div align="left">
 
 [<img alt="chammal97@naver.com" src ="https://img.shields.io/badge/Email-brightgreen.svg?&style=flat&logo=gmail&logoColor=FFFFFF"/>](chammal97@naver.com)
-[<img alt="poodlepoodle.github.io" src ="https://img.shields.io/badge/Blog-000000.svg?&style=flat&logo=jekyll&logoColor=FFFFFF"/>](https://poodlepoodle.github.io/)
+[<img alt="poodle blog" src ="https://img.shields.io/badge/Blog-000000.svg?&style=flat&logo=jekyll&logoColor=FFFFFF"/>](https://poodlepoodle.me/)
 
 </div>
