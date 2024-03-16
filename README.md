@@ -10,6 +10,6 @@
 
 <br/>
 
-[CV](https://read.cv/poodlepoodle) ··· [Blog](https://poodlepoodle.blog) ··· [Email](mailto:chammal97@naver.com)
+[CV](https://read.cv/poodlepoodle) ··· [Blog](https://poodlepoodle.me/) ··· [Email](mailto:chammal97@naver.com)
 
 </div>
