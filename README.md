@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/6462456/155731672-55c01143-0a73-4b2e-a1f1-d900f45dfe0e.gif" width="35%" style="border-radius: 1rem;" />
+<img src="https://user-images.githubusercontent.com/6462456/155731672-55c01143-0a73-4b2e-a1f1-d900f45dfe0e.gif" width="35%" />
 
 <h4>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" />
@@ -10,6 +10,6 @@
 
 <br/>
 
-[CV](https://read.cv/poodlepoodle) ··· [Blog](https://poodlepoodle.me/) ··· [Email](mailto:chammal97@naver.com)
+[Blog](https://poodlepoodle.me/) · · · [CV](https://read.cv/poodlepoodle) · · · [Email](mailto:chammal97@naver.com)
 
 </div>
