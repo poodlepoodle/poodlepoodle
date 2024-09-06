@@ -10,6 +10,6 @@
 
 <br/>
 
-[Blog](https://poodlepoodle.me/) · · · [CV](https://read.cv/poodlepoodle) · · · [Email](mailto:chammal97@naver.com)
+[Blog](https://poodlepoodle.me/blog) · · · [CV](https://read.cv/poodlepoodle) · · · [Email](mailto:chammal97@naver.com)
 
 </div>
