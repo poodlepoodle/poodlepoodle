@@ -1,15 +1,14 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/fa6d699f-837a-4d98-b6e2-1b9124b9cb66" width="30%" />
+<img src="https://github.com/user-attachments/assets/fa6d699f-837a-4d98-b6e2-1b9124b9cb66" width="20%" />
 
 <h4>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" />
 <strong>
-반갑습니당
+안녕하세요.
 </strong>
 </h4>
 
-<br/>
-
-[Blog](https://poodlepoodle.me/blog) · · · [CV](https://read.cv/poodlepoodle) · · · [Email](mailto:chammal97@naver.com)
-
+{ [resume](https://drive.google.com/drive/folders/1-kvEUsQjFOCqs6GD7B32Q9hbo2BwqM0C?usp=sharing),
+[portfolio](https://drive.google.com/drive/folders/1-kvEUsQjFOCqs6GD7B32Q9hbo2BwqM0C?usp=sharing),
+[blog](https://poodlepoodle.me),
+[email](mailto:chammal97@naver.com) }
 </div>
