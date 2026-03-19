@@ -7,8 +7,7 @@
 </strong>
 </h4>
 
-{ [resume](https://drive.google.com/drive/folders/1-kvEUsQjFOCqs6GD7B32Q9hbo2BwqM0C?usp=sharing),
+const { [resume](https://drive.google.com/drive/folders/1-kvEUsQjFOCqs6GD7B32Q9hbo2BwqM0C?usp=sharing),
 [portfolio](https://drive.google.com/drive/folders/1-kvEUsQjFOCqs6GD7B32Q9hbo2BwqM0C?usp=sharing),
-[blog](https://poodlepoodle.me),
-[email](mailto:chammal97@naver.com) }
+[blog](https://poodlepoodle.me?utm_source=github&utm_medium=social&utm_campaign=readme) } = useProfile();
 </div>
